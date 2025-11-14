@@ -11,17 +11,6 @@ This Power BI project presents an interactive dashboard for global sales analysi
 - Shipping cost and order return analytics.
 - Filter options by year, month, day, and country.
 
-## Dashboard Preview
-
-### Global Sales Analysis
-![Global Sales Analysis](./Screenshot-2025-11-14 215233.png)
-
-### Sales & Profit Analysis
-![Sales & Profit Analysis](./Screenshot 2025-11-14 215259.png)
-
-### Shipping Details
-![Shipping Details](./(https://github.com/muthu-analyst/Task-2_Data-Visualization-Storytelling/blob/main/Screenshot%202025-11-14%20215322.png))
-
 ## Getting Started
 
 1. Download and open the `.pbix` file in Power BI Desktop.
