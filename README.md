@@ -20,7 +20,7 @@ This Power BI project presents an interactive dashboard for global sales analysi
 ![Sales & Profit Analysis](./Screenshot 2025-11-14 215259.png)
 
 ### Shipping Details
-![Shipping Details](./Screenshot 2025-11-14 215322.png)
+![Shipping Details](./(https://github.com/muthu-analyst/Task-2_Data-Visualization-Storytelling/blob/main/Screenshot%202025-11-14%20215322.png))
 
 ## Getting Started
 
