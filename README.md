@@ -14,13 +14,13 @@ This Power BI project presents an interactive dashboard for global sales analysi
 ## Dashboard Preview
 
 ### Global Sales Analysis
-![Global Sales Analysis](./Screenshot-2025-11-10-182340.jpg)
+![Global Sales Analysis](./Screenshot-2025-11-14 215233.png)
 
 ### Sales & Profit Analysis
-![Sales & Profit Analysis](./Screenshot-2025-11-10-182517.jpg)
+![Sales & Profit Analysis](./Screenshot 2025-11-14 215259.png)
 
 ### Shipping Details
-![Shipping Details](./Screenshot-2025-11-11-090409.jpg)
+![Shipping Details](./Screenshot 2025-11-14 215322.png)
 
 ## Getting Started
 
